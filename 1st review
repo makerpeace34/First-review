@@ -59,6 +59,31 @@
             <label for="hobby2">Sport</label>
             <input type="checkbox" id="hobby3" name="hobbies" value="studying">
             <label for="hobby3">Studying</label>
+            <table border="1"><caption> Market prices</caption>
+                <tr>
+                    <th colspan="2">Items</th>                   
+                    <th>Quantity</th>                    
+                    <th >Price</th>                   
+                </tr>
+            <tr>
+                <td>Beans</td>
+                <td>Maizes</td>
+                <td>2kg</td>
+                <td>1600rwf</td>
+            </tr>
+            <tr>
+                <td>Potatoes</td>
+                <td>Legumes</td>
+                <td>5kg</td>
+                <td>3000rwf</td>  
+            </tr>
+            <tr>
+                <td>Soup</td>
+                <td>Fruits</td>
+                <td>2cup</td>
+                <td>1800rwf</td>
+            </tr>
+            </table>
 
          </form>
     </body>
